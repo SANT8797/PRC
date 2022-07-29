@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.example.prc">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_pal"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".click_camera">
+
+        </activity>
+        <activity android:name=".scan_palm" />
+        <activity android:name=".yearly_package" />
+        <activity android:name=".talkto_palmist" />
+        <activity android:name=".lovemarriage" />
+        <activity android:name=".Gun_Milan" />
+        <activity android:name=".ChattingActivity"/>
+        <activity android:name=".UpiPaymentActivity" />
+        <activity android:name=".CoursesActivity" />
+        <activity android:name=".CustomerDetails" />
+        <activity android:name=".DailyQuestion" />
+        <activity android:name=".YearlyPrediction" />
+        <activity android:name=".ThreeQuestion" />
+        <activity android:name=".OneQuestion" />
+        <activity android:name=".DetailHandReading" />
+        <activity android:name=".HandReading" />
+        <activity android:name=".MessageActivity" />
+        <activity
+            android:name=".splashfile"
+            android:label="PRC"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ProfileActivity1" />
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".Second" />
+        <activity android:name=".registration" />
+        <activity android:name=".RegistrationActivity" />
+
+        <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat"/>
+
+        <service android:name=".Notifications.MyFirebaseIdService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_SERVICE"/>
+            </intent-filter>
+        </service>
+
+        <service android:name=".Notifications.MyFirebaseMessaging"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.prc.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <dist:module dist:instant="true" />
+
+
+</manifest>

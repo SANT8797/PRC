@@ -1,0 +1,187 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_under"
+    tools:context=".scan_palm">
+
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView android:id="@+id/textView"
+            android:layout_width="258dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/back_struc"
+            android:paddingTop="15dp"
+            android:text="@string/title_head_scan"
+            android:textAlignment="center"
+            android:textColor="#612623"
+            android:textSize="20sp"/>
+
+
+        <ImageView
+            android:id="@+id/img11"
+            android:layout_width="352dp"
+            android:layout_height="194dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="50dp"
+            app:srcCompat="@drawable/lefthand"
+            />
+        <Button
+            android:id="@+id/btn11"
+            android:layout_width="250dp"
+            android:layout_height="55dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/back_struc"
+            android:textColor="#612623"
+            android:text="@string/title_left_palm"
+            />
+        <ImageView
+            android:id="@+id/img21"
+            android:layout_width="352dp"
+            android:layout_height="194dp"
+            android:layout_marginTop="30dp"
+            app:srcCompat="@drawable/righthand"
+            />
+        <Button
+            android:id="@+id/btn21"
+            android:layout_width="250dp"
+            android:layout_height="55dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/back_struc"
+            android:textColor="#612623"
+            android:text="@string/title_right_palm"
+            />
+
+        <ImageView
+            android:id="@+id/img31"
+            android:layout_width="352dp"
+            android:layout_height="194dp"
+            android:layout_marginTop="30dp"
+            app:srcCompat="@drawable/bothhands"
+            />
+        <Button
+            android:id="@+id/btn31"
+            android:layout_width="250dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/back_struc"
+            android:textColor="#612623"
+            android:text="@string/title_both"
+            />
+
+        <ImageView
+            android:id="@+id/img41"
+            android:layout_width="352dp"
+            android:layout_marginTop="30dp"
+            android:layout_height="194dp"
+            app:srcCompat="@drawable/leftside"
+            />
+        <Button
+            android:id="@+id/btn41"
+            android:layout_width="250dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/back_struc"
+            android:textColor="#612623"
+            android:text="@string/title_left_side"
+            />
+        <ImageView
+            android:id="@+id/img51"
+            android:layout_width="352dp"
+            android:layout_height="194dp"
+            android:layout_marginTop="30dp"
+            app:srcCompat="@drawable/rightside"
+            />
+        <Button
+            android:id="@+id/btn51"
+            android:layout_width="250dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/back_struc"
+            android:textColor="#612623"
+            android:text="@string/title_right_side"
+            />
+
+        <ImageView
+            android:id="@+id/img61"
+            android:layout_width="352dp"
+            android:layout_height="194dp"
+            android:layout_marginTop="30dp"
+            app:srcCompat="@drawable/leftthumb" />
+
+        <Button
+            android:id="@+id/btn61"
+            android:layout_width="250dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/back_struc"
+            android:textColor="#612623"
+            android:text="@string/title_left_thumb"
+            />
+
+        <ImageView
+            android:id="@+id/img71"
+            android:layout_width="352dp"
+            android:layout_height="194dp"
+            android:layout_marginTop="30dp"
+            app:srcCompat="@drawable/rightthumb"
+            />
+        <Button
+            android:id="@+id/btn71"
+            android:layout_width="250dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/back_struc"
+            android:textColor="#612623"
+            android:text="@string/title_right_thumb"
+            />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:id="@+id/backbtnscan"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="26dp"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/back_struc"
+                android:text="@string/title_back"
+                android:textColor="#612623"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/submitbtnscan"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="230dp"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/back_structure"
+                android:text="@string/title_Finish"
+                android:textColor="#612623"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</ScrollView>

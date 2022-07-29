@@ -1,0 +1,167 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name" translatable="false">PRC</string>
+    <string name="title_activity_home" translatable="false">Home</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Consultation</string>
+    <string name="menu_slideshow">Course</string>
+    <string name="menu_tools">Contact Us</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_logout">LogOut</string>
+
+    <string name="title_plamistry_center">Plamistry Research Center</string>
+    <string name="title_PAS">Palmistry And Astrology</string>
+    <string name="title_knowpalmist">Know more about Palmist</string>
+    <string name="title_clickVdo">(Click Below For Video)</string>
+    <string name="title_namehere">Enter your name here...</string>
+    <string name="title_status">Enter Status here...</string>
+
+    <!--Courses-->
+    <string name="title_coursemain">Courses</string>
+    <string name="title_dip">Diploma In Palmistey(DIP)</string>
+    <string name="title_adip">Advance Diploma In Palmistry(ADIP)</string>
+    <string name="title_pg">P.G.Diploma In Palmistry(PGDIP)</string>
+    <string name="title_medium">Medium</string>
+    <string name="title_langscourse">1.English 2.Hindi 3.Marathi</string>
+    <string name="title_linkforinfo">For More Information Please Visit :</string>
+
+    <!--Information-->
+    <string name="title_hreading1">1.Your past, present and future prediction of your whole life according to your age will be provided.</string>
+    <string name="title_hreading2">2.Hand analysis will be provided in written format(pdf)</string>
+    <string name="title_hreading3">COST=1500/-</string>
+    <string name="title_hreading4">Outside India=25$</string>
+
+    <string name="title_dhreading1">1.Your past, present and future prediction of your whole life according to your age will be provided. </string>
+    <string name="title_dhreading2">2.Hand analysis will be provided in written format(pdf)13-14pages</string>
+    <string name="title_dhreading3">3.5 Questions free.</string>
+    <string name="title_dhreading4">COST=3000/- And Outside India=50$</string>
+
+    <string name="title_gunmilan1">1.Hand analysis will be provided in written format(pdf)</string>
+    <string name="title_gunmilan2">COST=1200/-</string>
+    <string name="title_gunmilan3">Outside India=20$</string>
+
+    <string name="title_love1">1.Hand analysis will be provided in written format(pdf)</string>
+    <string name="title_love2">COST=1200/-</string>
+    <string name="title_love3">Outside India=20$</string>
+
+    <string name="title_aque1">1.Ask only one question.</string>
+    <string name="title_aque2">COST=250/- And Outside India=5$</string>
+    <string name="title_aque3">2.Ask two questions.</string>
+    <string name="title_aque4">COST=400/- And Outside India=7$</string>
+    <string name="title_aque5">3.Ask three questions.</string>
+    <string name="title_aque6">COST=500/- And Outside India=10$</string>
+
+    <string name="title_ypackage1">1.Detail hand analysis will be provided in written format(pdf)</string>
+    <string name="title_ypackage2">2.You can ask 13questions per month (FREE)</string>
+    <string name="title_ypackage3">COST=5000/-</string>
+    <string name="title_ypackage4">Outside India=75$</string>
+
+    <string name="title_ypridiction1">1.prediction will be provide MONTHWISE</string>
+    <string name="title_ypridiction2">2.Hand analysis will be provided in written format(pdf)</string>
+    <string name="title_ypridiction3">COST=1000/-</string>
+    <string name="title_ypridiction4">Outside India=17$</string>
+
+    <string name="title_ttp1">1.Talk to palmist through online mode(skype)/phone call/at office/via email/through whatsapp.</string>
+    <string name="title_ttp2">COST=50Rs /min.</string>
+    <string name="title_ttp3">Outside India 1$/min.</string>
+    <!-- Bottom Navigation -->
+    <string name="title_home">Home</string>
+    <string name="title_consultation">Consultation</string>
+    <string name="title_courses">Courses</string>
+    <string name="title_contact_us">Contact us</string>
+    <string name="user_name">user name</string>
+    <string name="save">Save</string>
+    <string name="todo">TODO</string>
+
+
+    <!--Packages-->
+
+    <string name="title_pacakages">Packages</string>
+    <string name="title_oneyr_prediction">One Year Detail Prediction</string>
+    <string name="title_gun_milan">Gun Milan</string>
+    <string name="title_love_m">Love and Marriage</string>
+    <string name="title_yearl_pac">Yearly Package</string>
+    <string name="title_ask_que">Ask Question</string>
+    <string name="title_talk_palmist">Talk to Palmist</string>
+    <string name="title_Hand_Reading">Hand Print Analysis</string>
+    <string name="title_detail_hand_Reading">Detail Hand Print Analysis</string>
+    <string name="title_info">Information</string>
+    <string name="title_continue">Continue</string>
+    <string name="title_back">Back</string>
+
+
+    <!--Scan Hands-->
+    <string name="title_head_scan">SCAN YOUR PALM</string>
+    <string name="title_left_palm">SCAN LEFT PALM </string>
+    <string name="title_right_palm">SCAN RIGHT PALM</string>
+    <string name="title_both">SCAN BOTH PALMS </string>
+    <string name="title_left_side">SCAN LEFT HAND SIDE</string>
+    <string name="title_right_side">SCAN RIGHT HAND SIDE</string>
+    <string name="title_left_thumb">SCAN LEFT THUMB</string>
+    <string name="title_right_thumb">SCAN RIGHT THUMB</string>
+    <string name="title_Finish">FINISH</string>
+
+
+
+    <string name="title_cap">Capture Image</string>
+
+    <!--Fill Form-->
+    <string name="title_fill_details">Fill Your Details</string>
+    <string name="title_personal_info">Personal Details</string>
+    <string name="title_name">Name</string>
+    <string name="title_email">Email Address</string>
+    <string name="title_mob_no">Mobile Number</string>
+    <string name="title_DOB">Date of Birth</string>
+    <string name="title_timeB">Time of Birth</string>
+    <string name="title_birthplace">Birth Place</string>
+    <string name="title_state">State,Country</string>
+    <string name="title_marridate">Date of Marriage</string>
+    <string name="title_i_am">I am Currently</string>
+    <string name="title_stud">Student</string>
+    <string name="title_working">Working</string>
+    <string name="title_ifany">If any please specify</string>
+    <string name="tilte_submit">Submit</string>
+
+
+    <string name="m_s" translatable="false">Choose Marital Status</string>
+    <string-array name="Maritalarray">
+        <item>Marrital Status</item>
+        <item>Married </item>
+        <item>Unmarried </item>
+        <item>Divorce </item>
+        <item>Widow</item>
+    </string-array>
+
+    <string name="gend" translatable="false">Choose Gender</string>
+    <string-array name="Genderarray">
+        <item>Choose Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- UPI activity -->
+    <string name="title_payee">Your Name</string>
+    <string name="title_descrition">Description</string>
+    <string name="title_amount">Amount.00</string>
+    <string name="title_paybrtn">Pay With UPI</string>
+    <string name="title_msg">Click Above Button To Pay</string>
+
+
+    <!--Address-->
+    <string name="title_add_details">Address Details</string>
+    <string name="title_add_name">Anil C. Kumavat</string>
+    <string name="title_add_address">12,Gaurav Park,behind HDFC Office,Opp Tibetian Market,Sharanpur Link Road,Nasik City-2</string>
+    <string name="title_add_mobno">+919422259672, +919403544953,+918830064048,
+07588170559</string>
+    <string name="title_add_email">palmistryresearch@gmail.com</string>
+    <string name="title_add_website">palmistryresearchcenter.com</string>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Bac">#4261FF</color>
+    <color name="Back">#f2e2b1</color>
+    <color name="clr">#f2dec9</color>
+    <color name="clr1">#f5dca6</color>
+    <color name ="aqua">#4C715F</color>
+    <color name="bg_splash">#fff7b7</color>
+    <color name="pur">#522487</color>
+    <color name="brw">#612623</color>
+</resources>

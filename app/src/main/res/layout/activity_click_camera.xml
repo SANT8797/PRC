@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/back_under" tools:context=".click_camera">
+    <ImageView android:id="@+id/ImageCapture"
+        android:layout_width="match_parent"
+        android:layout_height="429dp"
+        android:src="@drawable/imagepreview"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="153dp"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="246dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="56dp"
+        android:layout_marginEnd="109dp"
+        android:layout_marginBottom="610dp"
+        android:backgroundTint="#612623"
+        android:background="@drawable/back_structure"
+        android:text="@string/title_cap"
+        android:textColor="#f5fca6"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/sendbtn"
+        android:layout_width="154dp"
+        android:layout_height="62dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="202dp"
+        android:layout_marginBottom="53dp"
+        android:background="@drawable/back_structure"
+        android:backgroundTint="#612623"
+        android:text="@string/tilte_submit"
+        android:textColor="#f5fca6"
+        android:textSize="18sp" />
+</RelativeLayout>

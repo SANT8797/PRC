@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--Nav Bar-->
+    <string name="menu_home">होम</string>
+    <string name="menu_gallery">कन्सल्टेशन</string>
+    <string name="menu_slideshow">कोर्स</string>
+    <string name="menu_tools">संपर्क करे</string>
+    <string name="menu_share">शेयर करें</string>
+    <string name="menu_logout">लॉग आऊट</string>
+
+    <!--bottom nav-->
+
+
+    <string name="title_home">होम</string>
+    <string name="title_consultation">कन्सल्टेशन</string>
+    <string name="title_courses">कोर्स</string>
+    <string name="title_contact_us">संपर्क करें</string>
+    <string name="user_name">प्रयोक्ता नाम</string>
+    <string name="save">सेव्ह</string>
+    <string name="todo">TODO</string>
+
+    <string name="title_PAS">पाल्मिस्ट्री और अस्ट्रोलॉजि</string>
+    <string name="title_knowpalmist">हस्तरेखाविद् के बारे में अधिक जानें</string>
+    <string name="title_clickVdo">(वीडियो के लिए नीचे क्लिक करें)</string>
+    <string name="title_namehere">आप का नाम यहाँ लिखे...</string>
+    <string name="title_status">यहां स्टेटस डालें...</string>
+
+    <!--Courses-->
+    <string name="title_coursemain">कोर्स</string>
+    <string name="title_dip">डिप्लोमा इन पाल्मिस्ट्री</string>
+    <string name="title_adip">ऍडव्हान्स डिप्लोमा इन पाल्मिस्ट्री </string>
+    <string name="title_pg">पोस्ट ग्रॅड्युएशन इन पाल्मिस्ट्री</string>
+    <string name="title_plamistry_center">पाल्मिस्ट्री रिसर्च सेंटर</string>
+    <string name="title_medium">माध्यम</string>
+    <string name="title_langscourse">१.इंग्लिश  २.हिंदी  ३.मराठी</string>
+    <string name="title_linkforinfo">अधिक जानकारी के लिये :</string>
+
+    <string name="title_hreading1">१.आपकी उम्र के अनुसार आपके पूरे जीवन का अतीत, वर्तमान, भविष्य की भविष्यवाणी प्रदान की जाएगी.</string>
+    <string name="title_hreading2">२.हाथ विश्लेषण लिखित प्रारूप में प्रदान किया जाएगा (PDF).</string>
+    <string name="title_hreading3">मूल्य =1500/-</string>
+    <string name="title_hreading4">भारत के बाहर =25$</string>
+
+    <string name="title_dhreading1">१.आपकी उम्र के अनुसार आपके पूरे जीवन का अतीत, वर्तमान, भविष्य की भविष्यवाणी प्रदान की जाएगी.</string>
+    <string name="title_dhreading2">२.हाथ विश्लेषण लिखित प्रारूप में प्रदान किया जाएगा PDF)(13-14 पेजेज)</string>
+    <string name="title_dhreading3">३.5 प्रश्न मुक्त</string>
+    <string name="title_dhreading4">मूल्य =3000/- और भारत के बाहर =50$</string>
+
+    <string name="title_gunmilan1">१.हाथ विश्लेषण लिखित प्रारूप में प्रदान किया जाएगा(PDF).</string>
+    <string name="title_gunmilan2">मूल्य =1200/-</string>
+    <string name="title_gunmilan3">भारत के बाहर =20$</string>
+
+    <string name="title_love1">१.हाथ विश्लेषण लिखित प्रारूप में प्रदान किया जाएगा(PDF)</string>
+    <string name="title_love2">मूल्य =1200/-</string>
+    <string name="title_love3">भारत के बाहर =20$</string>
+
+    <string name="title_aque1">१.केवल एक सवाल  पूछें.</string>
+    <string name="title_aque2">मूल्य =250/- और भारत के बाहर =5$</string>
+    <string name="title_aque3">२.दो सवाल पूछें.</string>
+    <string name="title_aque4">मूल्य =400/- और भारत के बाहर =7$</string>
+    <string name="title_aque5">३.तीन सवाल पूछें.</string>
+    <string name="title_aque6">मूल्य =500/- और भारत के बाहर =10$</string>
+
+    <string name="title_ypackage1">१.हाथ विश्लेषण लिखित प्रारूप में प्रदान किया जाएगा(PDF)</string>
+    <string name="title_ypackage2">२.आप प्रति माह (मुक्त) 13 प्रश्न पूछ सकते हैं</string>
+    <string name="title_ypackage3">मूल्य =5000/-</string>
+    <string name="title_ypackage4">भारत के बाहर =75$</string>
+
+    <string name="title_ypridiction1">१.भविष्यवाणी महीनेवार प्रदान की जाएगी</string>
+    <string name="title_ypridiction2">२.हाथ विश्लेषण लिखित प्रारूप में प्रदान किया जाएगा(PDF)</string>
+    <string name="title_ypridiction3">मूल्य =1000/-</string>
+    <string name="title_ypridiction4">भारत के बाहर =17$</string>
+
+    <string name="title_ttp1">१.ऑनलाइन मोड / फोन कॉल / कार्यालय में / ईमेल के माध्यम से / व्हाट्सएप के माध्यम से हस्तरेखा विशेषज्ञ से बात करें</string>
+    <string name="title_ttp2">मूल्य =1200RsRS/मि</string>
+    <string name="title_ttp3">भारत के बाहर =1$/मि</string>
+
+
+    <!-- UPI activity -->
+    <string name="title_payee">नाम</string>
+    <string name="title_descrition">विवरण </string>
+    <string name="title_amount">राशी</string>
+    <string name="title_paybrtn">UPI से अदा करें</string>
+    <string name="title_msg">उपरी बटण क्लिक करें</string>
+
+
+    <!--Packages-->
+
+    <string name="title_pacakages">पॅकेज</string>
+    <string name="title_Hand_Reading">हाथ प्रिंट विश्लेषण</string>
+    <string name="title_detail_hand_Reading">विस्तारसे हाथ प्रिंट विश्लेषण</string>
+    <string name="title_oneyr_prediction">एक साल का विवरण भविष्यवाणी</string>
+    <string name="title_gun_milan">गुण-मेलन</string>
+    <string name="title_love_m">लव्ह और मॅरेज</string>
+    <string name="title_yearl_pac">वार्षिक पॅकेज</string>
+    <string name="title_ask_que">सवाल पुछने पर</string>
+    <string name="title_talk_palmist">हस्तरेखा विषारद से बात करे</string>
+    <string name="title_info">जानकारी</string>
+    <string name="title_continue">आगे</string>
+    <string name="title_back">पिछे</string>
+
+
+    <!--Fill Form-->
+    <string name="title_fill_details">अपनी जानकारी दर्ज करें</string>
+    <string name="title_personal_info">व्यक्तिगत परिचय</string>
+    <string name="title_name">नाव</string>
+    <string name="title_email">ई-मेल</string>
+    <string name="title_mob_no">मोबाईल नंबर</string>
+    <string name="title_DOB">जन्म दिन</string>
+    <string name="title_timeB">जन्म समय</string>
+    <string name="title_birthplace">जन्म स्थल</string>
+    <string name="title_state">राज्य, देश</string>
+    <string name="title_marridate">विवाह दिनांक</string>
+    <string name="title_i_am">इस समय मैं</string>
+    <string name="title_stud">पढ़ रहा/रही हूं</string>
+    <string name="title_working">काम करता/करती हूं</string>
+    <string name="title_ifany">विश्लेषण</string>
+    <string name="tilte_submit">प्रस्तुत करें</string>
+
+
+    <!--Scan Hands-->
+    <string name="title_head_scan">हाथ स्कैन करियें</string>
+    <string name="title_left_palm">दाएं हाथ को स्कैन करें</string>
+    <string name="title_right_palm">बाएं हाथ को स्कैन करें</string>
+    <string name="title_both">दोनों हाथ को स्कैन करें</string>
+    <string name="title_left_side">SCAN LEFT HAND SIDE</string>
+    <string name="title_right_side">SCAN RIGHT HAND SIDE</string>
+    <string name="title_left_thumb">दाएं अंगूठा स्कैन करें</string>
+    <string name="title_right_thumb">बाएं अंगूठा स्कैन करें</string>
+    <string name="title_Finish">समाप्त</string>
+
+
+
+
+    <string name="title_cap">फ़ोटो खिंचे</string>
+
+    <string-array name="Maritalarray">
+        <item>वैवाहिक स्थिती</item>
+        <item>वैवाहिक</item>
+        <item>अवैवाहिक</item>
+        <item>विधवा</item>
+        <item>तलाक (डिवोर्स)</item>
+    </string-array>
+
+    <string-array name="Genderarray">
+        <item>लिंग</item>
+        <item>पुरुष</item>
+        <item>स्त्री</item>
+        <item>इतर</item>
+    </string-array>
+
+    <!--Address-->
+    <string name="title_add_details">पत्ते का विवरण</string>
+    <string name="title_add_name">अनिल कुमावत</string>
+    <string name="title_add_address">१२,  गौरव पार्क, एचडीएफसी कार्यालय के  पिछे,तिबेटियन मार्केट के सामने,  शरणपूर लिंक रोड, नाशिक शहर -२</string>
+    <string name="title_add_mobno">+९१ ९४२२२५९६७२,  +९१ ९४०३५४४९५३,  +९१ ८८३००६४०४८,  ०७५८८१७०५५९</string>
+    <string name="title_add_email">palmistryresearch@gmail.com</string>
+    <string name="title_add_website">palmistryresearchcenter.com</string>
+
+
+</resources>
